@@ -1,0 +1,19 @@
+.web-page h2{
+    color: rebeccapurple;
+    text-align: center;
+}
+
+.web-page p{
+    color: teal;
+    text-align: justify;
+}
+
+.web-page p span{
+    color:rebeccapurple;
+    font-weight: 600;
+}
+
+.web-page .image img{
+    width: 900px;
+    height: 500px;
+}
